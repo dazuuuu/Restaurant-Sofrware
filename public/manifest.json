@@ -1,0 +1,13 @@
+{
+    "name": "Restaurant POS",
+    "short_name": "POS",
+    "description": "Restaurant point-of-sale: orders, kitchen, bookings, and cashier, installable and usable offline for floor operations.",
+    "start_url": "./index.php?route=login",
+    "scope": "./",
+    "display": "standalone",
+    "background_color": "#f8f9fa",
+    "theme_color": "#667eea",
+    "icons": [
+        { "src": "assets/icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+    ]
+}
